@@ -33,9 +33,7 @@ class Car extends Vehicle{
         this.numWheels = 4;
     }
 
-    numWheels(){
-        return 4;
-    }
+     
 }
 
 let myFirstCar = new Car("Toyota", "Corolla", 2005);
